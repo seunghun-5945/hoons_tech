@@ -81,7 +81,7 @@ const Header = () => {
     <Container scrolled={scrolled}>
       <Frame>
         <LiaPoopSolid style={{marginRight:"1%"}} size={30}/>
-        <h3>Hoon's Tech Blog d</h3>
+        <h3>Hoon's Tech Blog</h3>
       </Frame>
       <MenuFrame>
         <span>Home</span>
